@@ -281,7 +281,7 @@ namespace SoulsFormats
             public byte[] UnkA0 { get; set; }
 
             /// <summary>
-            /// Optics of a light ray. Higher value = brighter and sharper. Lower value = dimmer and softer. Similar to a magnifying glass. 
+            /// Unknown.
             /// </summary>
             public float Focus { get; set; }
 
