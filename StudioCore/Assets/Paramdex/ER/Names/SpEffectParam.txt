@@ -3424,4 +3424,8 @@
 5311700 Shield of the Guilty - Raise Focus
 5321400 Icon Shield - Grant HP Restoration
 5322200 Ant's Skull Plate - Raise Immunity
+<<<<<<< HEAD
 5322400 Eclipse Crest Greatshield - Raise Immunity Robustness and Focus
+=======
+5322400 Eclipse Crest Greatshield - Raise Immunity Robustness and Focus
+>>>>>>> parent of 40e5e537 (added phantom speffects)
